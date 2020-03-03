@@ -1,0 +1,1718 @@
+{
+  "singerData": {
+    "singer_name": "G.E.M. 邓紫棋",
+    "singer_mid": "001fNHEf1SFEFN",
+    "singer_pmid": "001fNHEf1SFEFN_2",
+    "singer_id": 13948,
+    "SingerDesc": "邓紫棋（Gloria&#32;Tang&#32;Tsz&#45;Kei），又名G&#46;E&#46;M&#46;，原名邓诗颖，1991年8月16日生于中国上海，4岁移居中国香港，中国香港创作型女歌手。&#10;2008年7月10日以16岁之龄出道。同年10月16日发行首张EP《G&#46;E&#46;M&#46;》，取得香港各大乐坛颁奖礼新人金奖。2011年5月，以19岁之龄在香港红馆举行5场个人演唱会。2012年7月，发行第四张个人专辑《Xposed》，凭借该专辑邓紫棋在2013年获得IFPI香港唱片销量大奖全年最高销量女歌手奖、最高销量国语唱片奖，并入围第24届金曲奖最佳国语女歌手奖。2014年1月，参加湖南卫视《我是歌手第二季》节目，获得总决赛亚军。3月31日，获第27届KCA美国儿童选择奖“最受欢迎亚洲艺人”。12月10日，邓紫棋的蜡像入驻香港杜莎夫人蜡像馆。2015年2月18日，参加2015年中央电视台春节联欢晚会，自弹自唱其自创的歌曲《多远都要在一起》。5月12日，再登福布斯中国名人榜，排名升至第11位&#32;。2015年7月，未满24岁便完成80场个人演唱会。截至北京时间2015年11月22日伦敦温布利终站，《G&#46;E&#46;M&#46;X&#46;X&#46;X&#46;Live”世界巡回演唱会》已经完成73场。打破之前华语乐坛女歌手单轮巡演59场的记录。8月15日，确认加盟中国好声音第四季担任梦想导师。同年，成为首位在瑞士阿尔卑斯山脉少女峰举办音乐会的中国音乐人。2016年1月5日，邓紫棋入选《福布斯》&#34;全球30岁以下30位最具潜力杰出音乐人&#34;。",
+    "list": [
+      {
+        "songInfo": {
+          "id": 247347346,
+          "type": 0,
+          "mid": "001QJyJ32zybEe",
+          "name": "句号",
+          "title": "句号",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 9812833,
+            "mid": "0049MVh824D7bM",
+            "name": "摩天动物园",
+            "title": "摩天动物园",
+            "subtitle": "",
+            "time_public": "2019-12-27",
+            "pmid": "0049MVh824D7bM_1"
+          },
+          "mv": {
+            "id": 1582631,
+            "vid": "b0032xtzvw6",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 235,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 12,
+          "time_public": "2019-12-27",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001QJyJ32zybEe",
+            "size_24aac": 0,
+            "size_48aac": 1438172,
+            "size_96aac": 2880356,
+            "size_192ogg": 5254491,
+            "size_192aac": 5692571,
+            "size_128mp3": 3771449,
+            "size_320mp3": 9428318,
+            "size_ape": 0,
+            "size_flac": 26556802,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 98683,
+            "try_end": 125445,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 2755380
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 23,
+            "icons": 8404860,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 6488616,
+            "mid": "000sEer11rNp1c"
+          },
+          "volume": {
+            "gain": -9.429,
+            "peak": 0.999,
+            "lra": 8.996
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 0,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 247298283,
+          "type": 0,
+          "mid": "000Fz7zP3FDuSz",
+          "name": "摩天动物园",
+          "title": "摩天动物园",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 9812833,
+            "mid": "0049MVh824D7bM",
+            "name": "摩天动物园",
+            "title": "摩天动物园",
+            "subtitle": "",
+            "time_public": "2019-12-27",
+            "pmid": "0049MVh824D7bM_1"
+          },
+          "mv": {
+            "id": 1587540,
+            "vid": "o0033w0no4t",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 270,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-12-27",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "000Fz7zP3FDuSz",
+            "size_24aac": 0,
+            "size_48aac": 1644636,
+            "size_96aac": 3300924,
+            "size_192ogg": 6187559,
+            "size_192aac": 6537402,
+            "size_128mp3": 4331945,
+            "size_320mp3": 10829538,
+            "size_ape": 0,
+            "size_flac": 30433337,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 78588,
+            "try_end": 123709,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 3199381
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 23,
+            "icons": 8404860,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 6488163,
+            "mid": "002mGjAh3DGC4b"
+          },
+          "volume": {
+            "gain": -9.388,
+            "peak": 0.999,
+            "lra": 9.494
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 0,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 200255722,
+          "type": 0,
+          "mid": "002E3MtF0IAMMY",
+          "name": "光年之外",
+          "title": "光年之外",
+          "subtitle": "《太空旅客（Passengers）》电影中国区主题曲",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 1796874,
+            "mid": "001mTkmb4GJlh4",
+            "name": "光年之外",
+            "title": "光年之外",
+            "subtitle": "《太空旅客（Passengers）》电影中国区主题曲",
+            "time_public": "2016-12-30",
+            "pmid": "001mTkmb4GJlh4_1"
+          },
+          "mv": {
+            "id": 1067783,
+            "vid": "g0022q7z0um",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 235,
+          "isonly": 0,
+          "language": 0,
+          "genre": 37,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2016-12-30",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "0029Lt3K2XVP75",
+            "size_24aac": 0,
+            "size_48aac": 1437528,
+            "size_96aac": 2879051,
+            "size_192ogg": 5090500,
+            "size_192aac": 5700446,
+            "size_128mp3": 3769367,
+            "size_320mp3": 9423101,
+            "size_ape": 0,
+            "size_flac": 25851452,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 65657,
+            "try_end": 86633,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2641983
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 2466457,
+            "mid": "003vhpJd4YeRus"
+          },
+          "volume": {
+            "gain": -8.535,
+            "peak": 0.989,
+            "lra": 9.357
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 88,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 104913384,
+          "type": 0,
+          "mid": "004dFFPd4JNv8q",
+          "name": "来自天堂的魔鬼",
+          "title": "来自天堂的魔鬼",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 1196826,
+            "mid": "003c616O2Zlswm",
+            "name": "新的心跳",
+            "title": "新的心跳",
+            "subtitle": "",
+            "time_public": "2015-11-06",
+            "pmid": "003c616O2Zlswm_1"
+          },
+          "mv": {
+            "id": 658093,
+            "vid": "v001892io9b",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 245,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 4,
+          "time_public": "2015-11-06",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001DI2Jj3Jqve9",
+            "size_24aac": 0,
+            "size_48aac": 1493159,
+            "size_96aac": 2989483,
+            "size_192ogg": 5405648,
+            "size_192aac": 5932642,
+            "size_128mp3": 3929034,
+            "size_320mp3": 9822259,
+            "size_ape": 0,
+            "size_flac": 29903656,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 42933,
+            "try_end": 144018,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2746509
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 181305,
+            "mid": "0042FDVH27bIZD"
+          },
+          "volume": {
+            "gain": -9.203,
+            "peak": 0.989,
+            "lra": 7.267
+          },
+          "label": "4611686018444165121",
+          "url": "",
+          "bpm": 68,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 248413020,
+          "type": 0,
+          "mid": "003XCSJ32AN5od",
+          "name": "透明",
+          "title": "透明",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 9812833,
+            "mid": "0049MVh824D7bM",
+            "name": "摩天动物园",
+            "title": "摩天动物园",
+            "subtitle": "",
+            "time_public": "2019-12-27",
+            "pmid": "0049MVh824D7bM_1"
+          },
+          "mv": {
+            "id": 1590414,
+            "vid": "t0033rswj8u",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 217,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 3,
+          "time_public": "2019-12-27",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "003XCSJ32AN5od",
+            "size_24aac": 0,
+            "size_48aac": 1313670,
+            "size_96aac": 2623612,
+            "size_192ogg": 4887850,
+            "size_192aac": 5163112,
+            "size_128mp3": 3477630,
+            "size_320mp3": 8693761,
+            "size_ape": 0,
+            "size_flac": 22468313,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 54277,
+            "try_end": 81933,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 2530783
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 7505718,
+            "mid": "002J2nla1oqKhv"
+          },
+          "volume": {
+            "gain": -6.214,
+            "peak": 0.812,
+            "lra": 11.361
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 0,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 106359731,
+          "type": 0,
+          "mid": "000P8peU0HhORi",
+          "name": "画",
+          "title": "画 (Live Piano Session Ⅱ)",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 1374365,
+            "mid": "002obDH53uiSTk",
+            "name": "画(Live Piano Session Ⅱ)",
+            "title": "画(Live Piano Session Ⅱ)",
+            "subtitle": "",
+            "time_public": "2016-05-16",
+            "pmid": "002obDH53uiSTk_1"
+          },
+          "mv": {
+            "id": 713238,
+            "vid": "b0020cptde7",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 168,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2016-05-16",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001L1mv24ORYiL",
+            "size_24aac": 0,
+            "size_48aac": 1028434,
+            "size_96aac": 2061253,
+            "size_192ogg": 3347187,
+            "size_192aac": 4082752,
+            "size_128mp3": 2701096,
+            "size_320mp3": 6752374,
+            "size_ape": 0,
+            "size_flac": 13651691,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 48711,
+            "try_end": 77829,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 1806963
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 2295841,
+            "mid": "004aGmKV1WgXpT"
+          },
+          "volume": {
+            "gain": -0.929,
+            "peak": 0.988,
+            "lra": 5.103
+          },
+          "label": "4611686018435776513",
+          "url": "",
+          "bpm": 101,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 1530858,
+          "type": 0,
+          "mid": "001X0PDf0W4lBq",
+          "name": "泡沫",
+          "title": "泡沫",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 123298,
+            "mid": "002YFufr4bXZyI",
+            "name": "Xposed",
+            "title": "Xposed",
+            "subtitle": "",
+            "time_public": "2012-07-05",
+            "pmid": "002YFufr4bXZyI_1"
+          },
+          "mv": {
+            "id": 149424,
+            "vid": "b0011lorm6w",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 258,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 4,
+          "time_public": "2012-07-05",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "000HjG8v1DTWRO",
+            "size_24aac": 0,
+            "size_48aac": 1584684,
+            "size_96aac": 3175836,
+            "size_192ogg": 5321629,
+            "size_192aac": 6259077,
+            "size_128mp3": 4143023,
+            "size_320mp3": 10357240,
+            "size_ape": 0,
+            "size_flac": 26269879,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2794543
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 57,
+            "mid": "003SgSu737UD69"
+          },
+          "volume": {
+            "gain": -7.425,
+            "peak": 0.977,
+            "lra": 15.381
+          },
+          "label": "5764607658329899009",
+          "url": "",
+          "bpm": 68,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 215540451,
+          "type": 0,
+          "mid": "003jjoM94WLiTf",
+          "name": "倒数",
+          "title": "倒数",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 4331954,
+            "mid": "003cKIKZ1J4Yyu",
+            "name": "另一个童话",
+            "title": "另一个童话",
+            "subtitle": "",
+            "time_public": "2018-08-16",
+            "pmid": "003cKIKZ1J4Yyu_1"
+          },
+          "mv": {
+            "id": 1480508,
+            "vid": "z0027n118z6",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 229,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2018-08-16",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001XzzJQ0DcCst",
+            "size_24aac": 0,
+            "size_48aac": 1397805,
+            "size_96aac": 2800537,
+            "size_192ogg": 5095768,
+            "size_192aac": 5540231,
+            "size_128mp3": 3670727,
+            "size_320mp3": 9176410,
+            "size_ape": 0,
+            "size_flac": 27224684,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 44567,
+            "try_end": 68625,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2588968
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 700,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 4458156,
+            "mid": "002pHJJE4QU1J6"
+          },
+          "volume": {
+            "gain": -9.776,
+            "peak": 0.989,
+            "lra": 8.225
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 82,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 7168586,
+          "type": 0,
+          "mid": "002G0sJY2wThyx",
+          "name": "喜欢你",
+          "title": "喜欢你",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 654246,
+            "mid": "000cFPKx3ZGzks",
+            "name": "喜欢你",
+            "title": "喜欢你",
+            "subtitle": "",
+            "time_public": "2014-08-15",
+            "pmid": "000cFPKx3ZGzks_1"
+          },
+          "mv": {
+            "id": 295453,
+            "vid": "v00149ipnk5",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 239,
+          "isonly": 0,
+          "language": 1,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2014-08-15",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001LKqP53VlkDw",
+            "size_24aac": 0,
+            "size_48aac": 1456514,
+            "size_96aac": 2909999,
+            "size_192ogg": 5716449,
+            "size_192aac": 5785516,
+            "size_128mp3": 3825370,
+            "size_320mp3": 9562820,
+            "size_ape": 0,
+            "size_flac": 28491795,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 53902,
+            "try_end": 82974,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2778770
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 3249677,
+            "mid": "0047xdQT1VPDdZ"
+          },
+          "volume": {
+            "gain": -8.83,
+            "peak": 0.989,
+            "lra": 13.017
+          },
+          "label": "4611686153727246338",
+          "url": "",
+          "bpm": 77,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 234824638,
+          "type": 0,
+          "mid": "000wocYU11tSzS",
+          "name": "差不多姑娘",
+          "title": "差不多姑娘",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 9812833,
+            "mid": "0049MVh824D7bM",
+            "name": "摩天动物园",
+            "title": "摩天动物园",
+            "subtitle": "",
+            "time_public": "2019-12-27",
+            "pmid": "0049MVh824D7bM_1"
+          },
+          "mv": {
+            "id": 1551986,
+            "vid": "b0031kyhy1p",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 230,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 8,
+          "time_public": "2019-12-27",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "000wocYU11tSzS",
+            "size_24aac": 0,
+            "size_48aac": 1398176,
+            "size_96aac": 2809706,
+            "size_192ogg": 5277229,
+            "size_192aac": 5534902,
+            "size_128mp3": 3682018,
+            "size_320mp3": 9204722,
+            "size_ape": 0,
+            "size_flac": 26527121,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 66716,
+            "try_end": 88246,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 2695230
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 23,
+            "icons": 8404860,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 6052107,
+            "mid": "001Imxyb0LHWBr"
+          },
+          "volume": {
+            "gain": -8.048,
+            "peak": 0.999,
+            "lra": 8.924
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 88,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 248413019,
+          "type": 0,
+          "mid": "004eKy6z0rtuPO",
+          "name": "Fly Away",
+          "title": "Fly Away",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 9812833,
+            "mid": "0049MVh824D7bM",
+            "name": "摩天动物园",
+            "title": "摩天动物园",
+            "subtitle": "",
+            "time_public": "2019-12-27",
+            "pmid": "0049MVh824D7bM_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 238,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 2,
+          "time_public": "2019-12-27",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "004eKy6z0rtuPO",
+            "size_24aac": 0,
+            "size_48aac": 1453850,
+            "size_96aac": 2916283,
+            "size_192ogg": 5318118,
+            "size_192aac": 5742329,
+            "size_128mp3": 3811173,
+            "size_320mp3": 9527601,
+            "size_ape": 0,
+            "size_flac": 24826424,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 59931,
+            "try_end": 86742,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 2757414
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 7507546,
+            "mid": "000p9pHE2xybRM"
+          },
+          "volume": {
+            "gain": -7.494,
+            "peak": 0.992,
+            "lra": 9.266
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 0,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 217911288,
+          "type": 0,
+          "mid": "004YUIB22WvTWe",
+          "name": "攀登",
+          "title": "攀登 (Live)",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 4359,
+              "mid": "000iM9BB2TXFqu",
+              "name": "潘玮柏",
+              "title": "潘玮柏",
+              "type": 0,
+              "uin": 0
+            },
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            },
+            {
+              "id": 944677,
+              "mid": "000djEdv2aAycA",
+              "name": "艾热",
+              "title": "艾热",
+              "type": 0,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 4747474,
+            "mid": "001kgcVb1p6Qao",
+            "name": "中国新说唱 第13期",
+            "title": "中国新说唱 第13期",
+            "subtitle": "",
+            "time_public": "2018-10-06",
+            "pmid": "001kgcVb1p6Qao_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 251,
+          "isonly": 0,
+          "language": 0,
+          "genre": 34,
+          "index_cd": 0,
+          "index_album": 2,
+          "time_public": "2018-10-06",
+          "status": 31,
+          "fnote": 0,
+          "file": {
+            "media_mid": "004YUIB22WvTWe",
+            "size_24aac": 0,
+            "size_48aac": 1534322,
+            "size_96aac": 3066767,
+            "size_192ogg": 5639239,
+            "size_192aac": 6092540,
+            "size_128mp3": 4023945,
+            "size_320mp3": 10059484,
+            "size_ape": 0,
+            "size_flac": 57674034,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 88458,
+            "try_end": 135197,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2906813
+          },
+          "pay": {
+            "pay_month": 0,
+            "price_track": 0,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 0,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 603923,
+            "msgid": 0,
+            "alert": 11,
+            "icons": 4680,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 0
+          },
+          "ksong": {
+            "id": 4884115,
+            "mid": "002Y9ZAj2MwDCT"
+          },
+          "volume": {
+            "gain": -10.885,
+            "peak": 0.994,
+            "lra": 4.716
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 89,
+          "version": 3,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "潘玮柏/G.E.M. 邓紫棋/艾热"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 736924,
+          "type": 0,
+          "mid": "002wKHHm42wVh1",
+          "name": "我的秘密",
+          "title": "我的秘密",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 62251,
+            "mid": "002F059l1kCcdr",
+            "name": "My Secret",
+            "title": "My Secret",
+            "subtitle": "",
+            "time_public": "2010-10-29",
+            "pmid": "002F059l1kCcdr_1"
+          },
+          "mv": {
+            "id": 276169,
+            "vid": "j00131150pv",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 252,
+          "isonly": 0,
+          "language": 0,
+          "genre": 50,
+          "index_cd": 0,
+          "index_album": 7,
+          "time_public": "2010-10-29",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "002DDrk12IuwUW",
+            "size_24aac": 0,
+            "size_48aac": 1519513,
+            "size_96aac": 3073783,
+            "size_192ogg": 5557505,
+            "size_192aac": 6047974,
+            "size_128mp3": 4035200,
+            "size_320mp3": 10087667,
+            "size_ape": 0,
+            "size_flac": 30315609,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 64779,
+            "try_end": 107382,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2809103
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 74089,
+            "mid": "001MP1423ZIsZe"
+          },
+          "volume": {
+            "gain": -10.916,
+            "peak": 1,
+            "lra": 10.202
+          },
+          "label": "4611686018435776513",
+          "url": "",
+          "bpm": 103,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 202553248,
+          "type": 0,
+          "mid": "004TEo4m1cwCtf",
+          "name": "桃花诺",
+          "title": "桃花诺",
+          "subtitle": "《上古情歌》电视剧片尾曲",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 2135134,
+            "mid": "000Vk6tG2kuHDU",
+            "name": "上古情歌 电视剧原声带",
+            "title": "上古情歌 电视剧原声带",
+            "subtitle": "《上古情歌》电视剧片尾曲",
+            "time_public": "2017-06-30",
+            "pmid": "000Vk6tG2kuHDU_1"
+          },
+          "mv": {
+            "id": 1312257,
+            "vid": "o00230ukvzb",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 219,
+          "isonly": 0,
+          "language": 0,
+          "genre": 37,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2017-06-30",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001UVbfz2A0biM",
+            "size_24aac": 0,
+            "size_48aac": 1338217,
+            "size_96aac": 2682870,
+            "size_192ogg": 4592272,
+            "size_192aac": 5302526,
+            "size_128mp3": 3517350,
+            "size_320mp3": 8793040,
+            "size_ape": 0,
+            "size_flac": 21452203,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 74585,
+            "try_end": 102596,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2406327
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 2806860,
+            "mid": "000qm1Cx24h5St"
+          },
+          "volume": {
+            "gain": -7.696,
+            "peak": 0.999,
+            "lra": 13.257
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 69,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 243429617,
+          "type": 0,
+          "mid": "000GnhrU1lCKYs",
+          "name": "Walk on Water",
+          "title": "Walk on Water",
+          "subtitle": "电影《终结者：黑暗命运》中国区主题曲",
+          "singer": [
+            {
+              "id": 13948,
+              "mid": "001fNHEf1SFEFN",
+              "name": "G.E.M. 邓紫棋",
+              "title": "G.E.M. 邓紫棋",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 9812833,
+            "mid": "0049MVh824D7bM",
+            "name": "摩天动物园",
+            "title": "摩天动物园",
+            "subtitle": "电影《终结者：黑暗命运》中国区主题曲",
+            "time_public": "2019-12-27",
+            "pmid": "0049MVh824D7bM_1"
+          },
+          "mv": {
+            "id": 1574767,
+            "vid": "o0032emy0tf",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 211,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 5,
+          "time_public": "2019-12-27",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "000GnhrU1lCKYs",
+            "size_24aac": 0,
+            "size_48aac": 1282117,
+            "size_96aac": 2576622,
+            "size_192ogg": 5015284,
+            "size_192aac": 5096919,
+            "size_128mp3": 3385299,
+            "size_320mp3": 8462876,
+            "size_ape": 0,
+            "size_flac": 27139149,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 56853,
+            "try_end": 89331,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2495846
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 6330596,
+            "mid": "001fxkmt2sXLHk"
+          },
+          "volume": {
+            "gain": -9.402,
+            "peak": 1,
+            "lra": 8.861
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 119,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "G.E.M. 邓紫棋"
+        }
+      }
+    ],
+    "total": 335,
+    "fans": 11731792
+  },
+  "seoData": {
+    "title": "G.E.M. 邓紫棋的音乐主页",
+    "keywords": [
+      "G.E.M. 邓紫棋",
+      "G.E.M. 邓紫棋的歌",
+      "G.E.M. 邓紫棋歌曲",
+      "G.E.M. 邓紫棋新歌",
+      "G.E.M. 邓紫棋音乐",
+      "无损音乐,在线听歌,音乐下载,音乐播放器,QQ音乐"
+    ],
+    "description": "G.E.M. 邓紫棋热门歌曲尽在QQ音乐, 邓紫棋（Gloria Tang TszKei），又名G.E.M.，原名邓诗颖，1991年8月16日生于中国上海，4岁移居中国香港，中国香港创作型女歌手。2008年7月10日以16岁之龄出道。同年10月16日发行首张EP《G.E.M.》，取得香港各大乐坛颁奖礼新人金奖。2011年5月，以19岁之龄在香港红馆举行5场个人演唱会。2012年7月，发行第四张个人专辑《Xposed》，凭借该专辑邓紫棋在2013年获得IFPI香港唱片销量大奖全年最高销量女歌手奖、最高销量国语唱片奖，并入围第24届金曲奖最佳国语女歌手奖。2014年1月，参加湖南卫视《我是歌手第二季》节目，获得总决赛亚军。3月31日，获第27届KCA美国儿童选择奖“最受欢迎亚洲艺人”。12月10日，邓紫棋的蜡像入驻香港杜莎夫人蜡像馆。2015年2月18日，参加2015年中央电视台春节联欢晚会，自弹自唱其自创的歌曲《多远都要在一起》。5月12日，再登福布斯中国名人榜，排名升至第11位 。2015年7月，未满24岁便完成80场个人演唱会。截至北京时间2015年11月22日伦敦温布利终站，《G.E.M.X.X.X.Live”世界巡回演唱会》已经完成73场。打破之前华语乐坛女歌手单轮巡演59场的记录。8月15日，确认加盟中国好声音第四季担任梦想导师。同年，成为首位在瑞士阿尔卑斯山脉少女峰举办音乐会的中国音乐人。2016年1月5日，邓紫棋入选《福布斯》\"全球30岁以下30位最具潜力杰出音乐人\"。"
+  },
+  "jsonld": {
+    "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+    "@id": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&source=ydetail&singermid=001fNHEf1SFEFN",
+    "appid": "1605244540115410",
+    "title": "G.E.M. 邓紫棋歌曲_G.E.M. 邓紫棋最新单曲在线试听_歌手_QQ音乐_听我想听的歌",
+    "images": [
+      "https://y.gtimg.cn/music/photo_new/T001R150x150M000001fNHEf1SFEFN.jpg?max_age=2592000"
+    ],
+    "pubDate": "2020-01-22T21:14:18"
+  },
+  "mv": {},
+  "album": {}
+}

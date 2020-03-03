@@ -1,0 +1,80 @@
+[
+  {
+    "songid": 247347346,
+    "songmid": "001QJyJ32zybEe",
+    "songname": "句号",
+    "songtitle": "句号",
+    "songsubtitle": "",
+    "type": 0,
+    "cdIdx": 0,
+    "interval": 235,
+    "isonly": 0,
+    "m4aUrl": "http://aqqmusic.tc.qq.com/amobile.music.tc.qq.com/C400001QJyJ32zybEe.m4a?guid=1504757557&vkey=8F8DD80A5B0E73345C93639D30E97C6A3A2042CE46DD7CD2C2DDC9AF205B7B534AE8B1E4427F0DBC24E3CBA5F870AC25C175D80BF56FAEDA&uin=0&fromtag=38",
+    "singer": [
+      {
+        "id": 13948,
+        "mid": "001fNHEf1SFEFN",
+        "name": "G.E.M. 邓紫棋",
+        "pmid": "",
+        "title": "G.E.M. 邓紫棋",
+        "type": 1,
+        "uin": 0
+      }
+    ],
+    "albumid": 9812833,
+    "albummid": "0049MVh824D7bM",
+    "albumname": "摩天动物园",
+    "albumpmid": "0049MVh824D7bM_1",
+    "strMediaMid": "001QJyJ32zybEe",
+    "sizeape": 0,
+    "preview": {
+      "trybegin": 0,
+      "tryend": 60000,
+      "trysize": 960887
+    },
+    "pay": {
+      "payalbumprice": 0,
+      "paydownload": 1,
+      "payplay": 0,
+      "timefree": 0,
+      "paytrackmouth": 1
+    },
+    "icons": 8535932,
+    "msgid": 14,
+    "switch": 17413891,
+    "alertid": 21,
+    "vid": "b0032xtzvw6",
+    "language": 0,
+    "ksong": {
+      "id": 6488616,
+      "mid": "000sEer11rNp1c"
+    },
+    "action": {
+      "play_lq": 1,
+      "play_hq": 0,
+      "play_sq": 0,
+      "down_lq": 0,
+      "down_hq": 0,
+      "down_sq": 0,
+      "soso": 0,
+      "fav": 1,
+      "share": 1,
+      "bgm": 1,
+      "ring": 0,
+      "sing": 1,
+      "radio": 1,
+      "try": 0,
+      "give": 1,
+      "play": 1
+    },
+    "playTime": "03:55",
+    "tryPlay": 0,
+    "anyPlay": 1,
+    "tryIcon": 0,
+    "disabled": 0,
+    "singername": "G.E.M. 邓紫棋",
+    "formatted": 1,
+    "pic": "//y.gtimg.cn/music/photo_new/T002R300x300M0000049MVh824D7bM_1.jpg?max_age=2592000",
+    "singerpic": "//y.gtimg.cn/music/photo_new/T001R150x150M000001fNHEf1SFEFN.jpg?max_age=2592000"
+  }
+]
